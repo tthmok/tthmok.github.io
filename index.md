@@ -5,7 +5,7 @@ description: "Tony Tang's Academic Website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I am an Associate Professor (as of July 1, 2016) in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement)](http://ricelab.cpsc.ucalgary.ca/) research group.
+I am an Associate Professor in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.cpsc.ucalgary.ca/).
 
 My current research explores the design, implementation and evaluation of novel systems for:
 * mixed reality interfaces for collaboration

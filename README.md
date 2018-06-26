@@ -1,4 +1,8 @@
-# Jordi Pont-Tuset's site
+# Tony Tang's academic website
+
+Ripped shamelessly from Jordi Pont-Tuset's site (https://github.com/jponttuset/jponttuset.github.io)
+
+Here's his readme:
 
 This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
 

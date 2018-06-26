@@ -2,7 +2,6 @@
 layout: home2
 title: Howdy ho!
 description: "Tony Tang's Academic Website"
-tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am an Associate Professor in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.cpsc.ucalgary.ca/).

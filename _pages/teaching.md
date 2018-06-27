@@ -21,8 +21,8 @@ I normally teach courses in HCI and research.
 	* [CPSC 481 - HCI](https://github.com/hcitang/481/tree/2016F)
 	* [CPSC 681 - Research Methods in HCI](https://hcitang.github.io/681/#!index.md)
 * Fall 2015
-	* [CPSC 502 - Research Project](https://hcitang.github.io/502/mdwiki.html#!index.md)
-	* [CPSC 503 - Research Project](https://hcitang.github.io/502/mdwiki.html#!index.md)
+	* [CPSC 502 - Research Project](https://hcitang.github.io/502/#!index.md)
+	* [CPSC 503 - Research Project](https://hcitang.github.io/502/#!index.md)
 	* [CPSC 681 - Research Methods in HCI](https://hcitang.github.io/681/#!index.md)
 * Winter 2015
 	* CPSC 599.81 - Collaborative Computing

@@ -18,7 +18,7 @@ I normally teach courses in HCI and research.
 * Winter 2017
 	* [SENG 301 - Introduction to Software Engineering](https://hcitang.github.io/seng301/)
 * Fall 2016
-	* [CPSC 481 - HCI](https://hcitang.github.io/481/)
+	* [CPSC 481 - HCI](https://github.com/hcitang/481/tree/2016F)
 	* [CPSC 681 - Research Methods in HCI](https://hcitang.github.io/681/#!index.md)
 * Fall 2015
 	* [CPSC 502 - Research Project](https://hcitang.github.io/502/mdwiki.html#!index.md)

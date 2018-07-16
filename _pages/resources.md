@@ -35,7 +35,7 @@ permalink: "/resources/"
 ## 502/503 Resources
 * [Writing a Proposal]({{site.baseurl}}/2018/502-503-proposal/) (written for CPSC 502/503, but generally applicable)
 * [Preparing a Literature Survey]({{site.baseurl}}/2018/literature-review/)
-* [Writing a Research Paper]({{site.baseurl}}/502-503-final-report/) (written for 502/503, but generally useful)
+* [Writing a Research Paper]({{site.baseurl}}/2018/502-503-final-report/) (written for 502/503, but generally useful)
 
 ## Random
 * [Git Primer](http://ricelab.cpsc.ucalgary.ca/blog/2017/git-as-tony-understands-it/)

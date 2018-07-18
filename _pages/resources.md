@@ -20,6 +20,7 @@ permalink: "/resources/"
 * [Setting up EZProxy for UCalgary]({{site.baseurl}}/2018/ezproxy-setup/). The university has subscriptions to many major digital libraries. Getting this set up allows you to get PDFs from off-campus.
 * [Why you should use video](https://ricelab.github.io/young-tony-blog/2007/10/24/why-you-should-use-video/)
 * [Tips for Preparing an Oral Defense]({{site.baseurl}}/2018/oral-defense-tips/)
+* [How to do reviews for HCI conferences](http://ricelab.cpsc.ucalgary.ca/blog/2018/writing-reviews-for-hci/)
 
 ## Other
 * [Tips for Success: Reference Letters](http://grad.ucalgary.ca/awards/tips_for_success/reference_forms)

@@ -9,8 +9,7 @@ I normally teach courses in HCI and research.
 
 ## Upcoming and Current Teaching
 
-* CPSC 581 - HCI II
-* CPSC 599.81 - Design and Evaluation of Mixed Reality Interfaces
+* [CPSC 599.90 - Design of Mixed Reality Interfaces](https://hcitang.github.io/599.90/)
 
 ## Past Teaching
 * Spring 2017

@@ -4,12 +4,12 @@ title: Howdy ho!
 description: "Tony Tang's Academic Website"
 ---
 
-I am an Associate Professor and currently serve as the Associate Head (Communications and Outreach) for the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.cpsc.ucalgary.ca/).
+I am an Associate Professor in the [Faculty of Information]() at the [University of Toronto](). I direct the [RICELab (Rethinking Interaction, Collaboration and Engagement) research group](http://ricelab.cpsc.ucalgary.ca/). Previously, I was an Associate Professor in the [Department of Computer Science](http://www.cpsc.ucalgary.ca/) at the [University of Calgary](http://ucalgary.ca/). 
 
 My current research explores the design, implementation and evaluation of novel systems for:
-* mixed reality interfaces for collaboration
-* electronic fashion as a means of expression
-* remote immersion.
+* mixed reality interfaces for collaboration,
+* electronic fashion as a means of expression,
+* collaboration and remote immersion.
 
 Broadly, I am interested in Human-Computer Interaction, and the sub-disciplines of Computer Supported Cooperative Work (CSCW), and Ubiquitous Computing.
 

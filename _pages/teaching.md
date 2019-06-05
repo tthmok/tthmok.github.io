@@ -5,13 +5,14 @@ permalink: "/teaching/"
 title: Teaching
 ---
 
-I normally teach courses in HCI and research.
+I normally teach courses in User Experience Design, HCI and research methods.
 
 ## Upcoming and Current Teaching
-
-* [CPSC 599.90 - Design of Mixed Reality Interfaces](https://hcitang.github.io/599.90/)
+* INF2170H – Information Architecture
 
 ## Past Teaching
+* Winter 2019
+	* [CPSC 599.90 - Design of Mixed Reality Interfaces](https://hcitang.github.io/599.90/)
 * Spring 2017
 	* [CPSC 481 - HCI](https://hcitang.github.io/481/)
 * Winter 2017

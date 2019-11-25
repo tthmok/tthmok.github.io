@@ -24,10 +24,8 @@ bing_verify:
 links:
   - title: About
     url: "/"
-  - title: CV
-    url: "/cv/"
   - title: Research
-    url: "http://ricelab.cpsc.ucalgary.ca"
+    url: "http://terrancemok.com/publications"
     external: true
   - title: Teaching
     url: "/teaching/"

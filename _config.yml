@@ -31,13 +31,8 @@ links:
     external: true
   - title: Teaching
     url: "/teaching/"
-  - title: Blog
-    url: "http://ricelab.cpsc.ucalgary.ca/blog/"
-    external: true
   - title: Resources
     url: /resources/
-  - title: Fun
-    url: /fun/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Edmonton
